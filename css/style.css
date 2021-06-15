@@ -1,0 +1,70 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+header{
+    background-color:#E5E5E5 ;
+    text-align: center;
+}
+
+#contenido{
+    margin:100px
+}
+
+#titulo{
+    background-color:#C4C4C4;
+}
+
+h1{
+    color:#005677;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 35;
+}
+
+
+.titulares{
+    background-color:#C4C4C4;
+}
+
+
+h2{
+    font-size: 20px;
+    color:#005677;
+    text-transform:uppercase;
+}
+ul li{
+    font-size: 15px;
+}
+
+.datos{
+    font-weight: bold;
+    
+}
+
+.personales{
+    font-style: italic;
+}
+
+.salto{
+    padding: 76px;
+    text-indent:76px;
+}
+
+p#footer{
+    background-color: #005677;
+    text-align: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 37px;
+}
+
+.ico{
+    padding-left:15px;
+    padding-top: 8px ;
+    
+}
